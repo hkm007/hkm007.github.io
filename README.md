@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/hkm007/hkm007/blob/master/Assets/Hi.gif" height ="20px"  width="25px"> I'm Himanshu
+### Hi there! I'm Himanshu
 
 I'm a software engineer who loves to solve real life problems using latest technologies. Proficient in Data Structures and Algorithms. Interested in full stack development, software architecture and cloud computing.
 
